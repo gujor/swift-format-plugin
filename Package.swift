@@ -9,7 +9,8 @@ let package = Package(
     .plugin(name: "Swift-Format", targets: ["Swift-Format"]),
   ],
   dependencies: [
-    .package(url: "https://github.com/apple/swift-format.git", from: "0.50600.0")
+    //.package(url: "https://github.com/apple/swift-format.git", from: "0.50600.0"),
+    .package(url: "https://github.com/apple/swift-format.git", branch: "release/5.7")
   ],
   targets: [
     .plugin(
