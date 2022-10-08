@@ -2,7 +2,7 @@
 
 A Swift Package Manager command plugin for Swift-Format.
 
-To use this plugin from another packagage, add a dependency to it:
+To use this plugin from another package, add a dependency to it:
 ```swift
 // swift-tools-version: 5.7
 import PackageDescription
