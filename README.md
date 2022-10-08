@@ -1,6 +1,8 @@
 # Swift Format Plugin
 
-A Swift Package Manager command plugin for Swift-Format.
+A Swift Package Manager command plugin for [Swift-Format](https://github.com/apple/swift-format). 
+
+No more subjective code formatting discussions. Just use the default configuration. And you get two space indentation. Which is the best one. I think. :)
 
 To use this plugin from another package, add a dependency to it:
 ```swift
